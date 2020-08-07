@@ -3,7 +3,14 @@ body {
     margin: 0px;
   }
   
- #door1{
-    cursor: pointer;
+  .header {
+    background-color:#00ffff;
+  
   }
+  
+  .door-frame {
+    cursor: pointer;
+    padding:10px;
+  }
+  
   
